@@ -1,4 +1,4 @@
-# CSC-481 Team 20 Game Engine Documentation
+Game Engine Documentation
 
 ## Milestone 1
 
