@@ -1,4 +1,4 @@
-Game Engine Documentation
+# Game Engine Documentation
 
 ## Milestone 1
 
